@@ -14,7 +14,7 @@
 
 ### Trophy:
 
-  https://github-profile-trophy.vercel.app/?username={Anderson-Reges}
+  ![trophy]({https://github-profile-trophy.vercel.app/?username={Anderson-Reges}})
 
 - 🌱 I’m currently learning: React Hooks
 - 💬 Ask me about: Front-End
