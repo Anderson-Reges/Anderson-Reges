@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Anderson Reges, everyone calls me Reges, but feel free to call me 😁.
+### Hi there 👋, I'm Anderson Reges, everyone calls me Reges, but feel free to call me by my first or last name 😁.
 
 ### About Me:
 
