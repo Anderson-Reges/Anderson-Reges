@@ -18,4 +18,4 @@
 
 - 🌱 I’m currently learning: React Hooks
 - 💬 Ask me about: Front-End
-- ⚡ Fun fact: Phonk Music
+- ⚡ Fun fact: I love listening to Phonk music to study
