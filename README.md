@@ -2,7 +2,7 @@
 
 ### About Me:
 
-2012 was the year I got interested in technology and it was that same year that I got my first computer, but I didn't have internet, I started using it every day when I got home from school to learn how it worked and basically I learned to use it by turning it on so much. every day and try to understand, 10 years later With a little encouragement from a friend I was impressed with the way the programs and sites work inside, today I am a full-stack web development student, and in the future I intend not only to work but to evolve in the area.
+2012 was the year I got interested in technology and it was that same year that I got my first computer, but I didn't have internet, I started using it every day when I got home from school to learn how it worked and basically I learned to use it by turning it on so much everyday and try to understand, 10 years later With a little encouragement from a friend I was impressed with the way the programs and sites work inside, today I am a full-stack web development student, and in the future I intend not only to work but to evolve in the area.
 
 ### My languages and Frameworks:
 
