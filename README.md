@@ -31,7 +31,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">### Contact me:</div>
+### <div align="center">Contact me:</div>
 
 - 🌱 I’m currently learning: Node.js
 - 💬 Ask me about: Front-End
