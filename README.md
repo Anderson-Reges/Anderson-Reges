@@ -33,6 +33,8 @@
 
 ### <div align="center">Contact me:</div>
 
+<a href="https://www.linkedin.com/in/anderson-reges/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 - 🌱 I’m currently learning: Node.js
 - 💬 Ask me about: Front-End
 - ⚡ Fun fact: I love listening to Phonk music to study
