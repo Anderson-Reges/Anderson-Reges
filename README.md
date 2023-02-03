@@ -42,6 +42,6 @@
  
 </div>
 
-- 🌱 I’m currently learning: Node.js
+- 🌱 I’m currently learning: TypeScript
 - 💬 Ask me about: Front-End
 - ⚡ Fun fact: I love listening to Phonk music to study
