@@ -46,5 +46,5 @@
 </div>
 
 - 🌱 I’m currently learning: POO
-- 💬 Ask me about: Front-End
+- 💬 Ask me about: Front-end, back-end and games
 - ⚡ Fun fact: I love listening to Phonk music to study
