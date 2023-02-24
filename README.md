@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Anderson Reges, everyone calls me Reges, but feel free to call me by my first or last name 😁.
+### Olá 👋, Eu sou Anderson Reges, mas pode me chamar de Reges 😁.
 
 ### About Me:
 
-2012 was the year I got interested in technology and it was that same year that I got my first computer, but I didn't have internet, I started using it every day when I got home from school to learn how it worked and basically I learned to use it by turning it on so much everyday and try to understand, 10 years later With a little encouragement from a friend I was impressed with the way the programs and sites work inside, today I am a full-stack web development student, and in the future I intend not only to work but to evolve in the area.
+Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano que eu tive meu primeiro computador so que ele não tinha internet, comecei a fuçar nele todo dia quando chegava da escola e basicamente aprendi a mexer so fuçando, 10 anos depois com um pequeno incentivo de um amigo eu fiquei maravilhado como funciona os programas e os sites por dentro, hoje sou um estudante de desenvolvimento web full-stack, e no futuro pretendo não so evoluir como me aperfeiçoar na área.
 
 ### My languages and Frameworks:
 
@@ -47,4 +47,4 @@
 
 - 🌱 I’m currently learning: POO
 - 💬 Ask me about: Front-end, back-end and games
-- ⚡ Fun fact: I love listening to Phonk music to study
+- ⚡ Fun fact: I love listening to MixedMatchers to study
