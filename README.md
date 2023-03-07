@@ -2,7 +2,7 @@
 
 ### About Me:
 
-Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano que eu tive meu primeiro computador so que ele não tinha internet, comecei a fuçar nele todo dia quando chegava da escola e basicamente aprendi a mexer so fuçando, 10 anos depois com um pequeno incentivo de um amigo eu fiquei maravilhado como funciona os programas e os sites por dentro, hoje sou um estudante de desenvolvimento web full-stack, e no futuro pretendo não so evoluir como me aperfeiçoar na área.
+Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano que eu tive meu primeiro computador so que ele não tinha internet, comecei a fuçar nele todo dia quando chegava da escola e basicamente aprendi a mexer so fuçando, 10 anos depois com um pequeno incentivo de um amigo eu fiquei maravilhado como funciona os programas e os sites por dentro, hoje sou um desenvolvedor web full-stack, sempre se aperfeiçoando e aprendendo mais a cada dia. SEMPRE!
 
 ### My languages and Frameworks:
 
