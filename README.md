@@ -25,7 +25,8 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 
 <a href="https://nodejs.org/en/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://expressjs.com/pt-br/" target="_blank">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</a>
-<a href="https://sequelize.org/" target="_blank">![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</a>
+<a href="https://expressjs.com/pt-br/" target="_blank">![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)</a>
+<a href="https://jwt.io/" target="_blank">![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</a>
   
 #### Tests
 
@@ -36,6 +37,10 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 #### Database
 
 <a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
+
+#### Other
+
+<a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
   
   
 ### <div align="center">Contact me:</div>
