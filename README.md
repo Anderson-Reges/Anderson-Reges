@@ -8,7 +8,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 
 #### Versioning
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<a href='https://git-scm.com/' target='_blank'![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 #### Front-End
