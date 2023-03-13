@@ -53,7 +53,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
  
 </div>
 
-- 🌱 I’m currently learning: POO
+- 🌱 I’m currently learning: MongoDB
 - 💬 Ask me about: Front-end, back-end and games
 - ⚡ Fun fact: I love listening to MixedMatchers to study
 
