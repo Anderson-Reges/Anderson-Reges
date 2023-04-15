@@ -14,7 +14,6 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 #### 🖥️ Front-End
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
-<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://sass-lang.com/" target="_blank">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</a>
@@ -24,6 +23,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 #### ⚙️ Back-End
 
 <a href="https://nodejs.org/en/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
+<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="https://expressjs.com/pt-br/" target="_blank">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</a>
 <a href="https://expressjs.com/pt-br/" target="_blank">![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)</a>
 <a href="https://jwt.io/" target="_blank">![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</a>
