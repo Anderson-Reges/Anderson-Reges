@@ -24,6 +24,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 
 <a href="https://nodejs.org/en/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
+<a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 <a href="https://expressjs.com/pt-br/" target="_blank">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</a>
 <a href="https://expressjs.com/pt-br/" target="_blank">![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)</a>
 <a href="https://jwt.io/" target="_blank">![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</a>
@@ -53,7 +54,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
  
 </div>
 
-- 🌱 I’m currently learning: MongoDB
+- 🌱 I’m currently learning: Python
 - 💬 Ask me about: Front-end, back-end and games
 - ⚡ Fun fact: I love listening to MixedMatchers to study
 
