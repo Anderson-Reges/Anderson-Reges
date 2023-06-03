@@ -8,41 +8,30 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 
 #### 🕓 Versioning
 
-<a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
-<a href="https://github.com" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+[![My Skills With Versioning](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   
 #### 🖥️ Front-End
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="https://sass-lang.com/" target="_blank">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</a>
-<a href="https://pt-br.reactjs.org/" target="_blank">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-<a href="https://redux.js.org/" target="_blank">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
+[![My Skills With Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux)](https://skillicons.dev)
   
 #### ⚙️ Back-End
 
-<a href="https://nodejs.org/en/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
-<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</a>
-<a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-<a href="https://expressjs.com/pt-br/" target="_blank">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</a>
-<a href="https://jwt.io/" target="_blank">![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</a>
-<a href="https://expressjs.com/pt-br/" target="_blank">![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)</a>
+[![My Skills With Back-End](https://skillicons.dev/icons?i=nodejs,ts,py,express,sequelize)](https://skillicons.dev)
   
-#### 🧪 Tests
-
-<a href="https://jestjs.io/pt-BR/" target="_blank">![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)</a>
-<a href="https://testing-library.com/" target="_blank">![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)</a>
-<a href="https://mochajs.org/" target="_blank">![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)</a>
   
 #### 💾 Databases
 
-<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
-<a href="https://www.mongodb.com/pt-br" target="_blank">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+[![My Skills With Database](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+
+#### 🧪 Tests
+
+[![My Skills With Tests](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+<a href="https://testing-library.com/" target="_blank">![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)</a>
+<a href="https://mochajs.org/" target="_blank">![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)</a>
 
 #### 🛠️ Others
 
-<a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
+[![My Skills With Others](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
   
   
 ### <div align="center">Contact me:</div>
