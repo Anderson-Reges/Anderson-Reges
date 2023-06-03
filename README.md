@@ -1,8 +1,16 @@
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Anderson-Reges&label=VISITAS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
+</div>
+
 ### Olá 👋, Eu sou Anderson Reges, mas pode me chamar de Reges 😁.
 
 ### About Me:
 
-Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano que eu tive meu primeiro computador so que ele não tinha internet, comecei a fuçar nele todo dia quando chegava da escola e basicamente aprendi a mexer so fuçando, 10 anos depois com um pequeno incentivo de um amigo eu fiquei maravilhado como funciona os programas e os sites por dentro, hoje sou um desenvolvedor web full-stack, sempre se aperfeiçoando e aprendendo mais a cada dia. SEMPRE!
+Sou extremamente curioso e apaixonado por tecnologia. Desde criança, minha paixão pela tecnologia me levou a explorar as infinitas possibilidades que um computador oferece, despertando meu interesse pela programação.
+
+Recentemente, fiz uma transição de carreira desafiadora, mas tive a sorte de contar com um amigo mentor que me guiou nesse processo. Ele me mostrou o potencial da área de desenvolvimento quando eu estava indeciso em abandonar minha antiga área. Após muitas conversas, estudos e dedicação, decidi me lançar nessa nova área e aplicar tudo o que aprendi. Hoje, estou confiante para enfrentar qualquer desafio que surja no meu caminho.
+
+Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplicar as tecnologias que conheço em diferentes áreas além da web. Meu objetivo é ampliar meus conhecimentos e aplicar essas habilidades em projetos futuros. Estou constantemente aprendendo novas tecnologias e ferramentas para me manter atualizado e contribuir com soluções inovadoras e eficientes em qualquer projeto em que esteja envolvido.
 
 ### My languages and Frameworks:
 
@@ -26,8 +34,6 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
 #### 🧪 Tests
 
 [![My Skills With Tests](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
-<a href="https://testing-library.com/" target="_blank">![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)</a>
-<a href="https://mochajs.org/" target="_blank">![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)</a>
 
 #### 🛠️ Others
 
@@ -43,7 +49,7 @@ Em 2012 foi o ano a qual fiquei interessado por tecnologia e foi nesse mesmo ano
  
 </div>
 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: data structure
 - 💬 Ask me about: Front-end, back-end and games
 - ⚡ Fun fact: I love listening to MixedMatchers to study
 
