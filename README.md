@@ -35,7 +35,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
 
 [![My Skills With Tests](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
-#### 🛠️ Others
+#### 🛠️ DevOps
 
 [![My Skills With Others](https://skillicons.dev/icons?i=docker,figma)](https://skillicons.dev)
   
