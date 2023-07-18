@@ -15,3 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: waka_7e0286a2-a579-41a8-950d-b4c445af3619
           GH_TOKEN: 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
+          LOCALE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
