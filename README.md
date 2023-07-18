@@ -49,8 +49,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
  
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning: data structure
 - 💬 Ask me about: Front-end, back-end and games
