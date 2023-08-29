@@ -46,6 +46,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
   
 <a href="https://www.linkedin.com/in/anderson-reges/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:andersonreges76@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="anderson-reges.vercel.app">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
  
 </div>
 
