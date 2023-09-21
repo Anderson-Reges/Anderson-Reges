@@ -37,7 +37,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
 
 #### 🛠️ Others
 
-[![My Skills With Others](https://skillicons.dev/icons?i=docker,figma)](https://skillicons.dev)
+[![My Skills With Others](https://skillicons.dev/icons?i=docker,figma,idea,eclipse)](https://skillicons.dev)
   
   
 ### <div align="center">Contact me:</div>
