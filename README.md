@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Anderson-Reges&label=VISITAS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
-</div>
-
 ### Olá 👋, Eu sou Anderson Reges, mas pode me chamar de Reges 😁.
 
 ### About Me:
