@@ -25,7 +25,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
   
 #### 💾 Databases
 
-[![My Skills With Database](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
+[![My Skills With Database](https://skillicons.dev/icons?i=mysql,postgres,mongo,supabase)](https://skillicons.dev)
 
 #### 🧪 Tests
 
