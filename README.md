@@ -16,7 +16,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
   
 #### 🖥️ Front-End
 
-[![My Skills With Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,redux)](https://skillicons.dev)
+[![My Skills With Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,redux)](https://skillicons.dev)
   
 #### ⚙️ Back-End
 
