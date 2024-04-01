@@ -57,4 +57,3 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
 | Top Languages | GitHub Status |
 | ------------- | ------------- |
 |<a href="https://github.com/Anderson-Reges" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Reges&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  | <a href="https://github.com/Anderson-Reges"><img src="https://github-readme-stats.vercel.app/api?username=Anderson-Reges&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mathdio's GitHub stats" /></a>  |
-
