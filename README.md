@@ -20,7 +20,7 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
   
 #### ⚙️ Back-End
 
-[![My Skills With Back-End](https://skillicons.dev/icons?i=nodejs,ts,py,java,express,sequelize)](https://skillicons.dev)
+[![My Skills With Back-End](https://skillicons.dev/icons?i=nodejs,ts,py,java,spring,express,sequelize)](https://skillicons.dev)
   
   
 #### 💾 Databases
