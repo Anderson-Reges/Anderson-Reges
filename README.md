@@ -4,8 +4,6 @@
 
 Sou extremamente curioso e apaixonado por tecnologia. Desde criança, minha paixão pela tecnologia me levou a explorar as infinitas possibilidades que um computador oferece, despertando meu interesse pela programação.
 
-Recentemente, fiz uma transição de carreira desafiadora, mas tive a sorte de contar com um amigo mentor que me guiou nesse processo. Ele me mostrou o potencial da área de desenvolvimento quando eu estava indeciso em abandonar minha antiga área. Após muitas conversas, estudos e dedicação, decidi me lançar nessa nova área e aplicar tudo o que aprendi. Hoje, estou confiante para enfrentar qualquer desafio que surja no meu caminho.
-
 Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplicar as tecnologias que conheço em diferentes áreas além da web. Meu objetivo é ampliar meus conhecimentos e aplicar essas habilidades em projetos futuros. Estou constantemente aprendendo novas tecnologias e ferramentas para me manter atualizado e contribuir com soluções inovadoras e eficientes em qualquer projeto em que esteja envolvido.
 
 ### My languages and Frameworks:
