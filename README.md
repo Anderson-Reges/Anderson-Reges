@@ -14,11 +14,11 @@ Como entusiasta de tecnologia, estou sempre em busca de novas maneiras de aplica
   
 #### 🖥️ Front-End
 
-[![My Skills With Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,redux)](https://skillicons.dev)
+[![My Skills With Front-End](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,styledcomponents,react,next,redux)](https://skillicons.dev)
   
 #### ⚙️ Back-End
 
-[![My Skills With Back-End](https://skillicons.dev/icons?i=nodejs,ts,py,java,spring,express,sequelize)](https://skillicons.dev)
+[![My Skills With Back-End](https://skillicons.dev/icons?i=nodejs,ts,py,java,spring,express,sequelize,prisma)](https://skillicons.dev)
   
   
 #### 💾 Databases
